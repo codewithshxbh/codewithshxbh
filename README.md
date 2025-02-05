@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAGYnjG5FEs/8UdcVUmX7vwtj-h3DsFCMw/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)](https://shubhenduchakrabarti.netlify.app)
+![MasterHead](https://www.canva.com/design/DAGYnjG5FEs/8UdcVUmX7vwtj-h3DsFCMw/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
 <h1 align="center">Hi 👋, I'm Shubhendu Chakrabarti</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
