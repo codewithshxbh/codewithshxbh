@@ -36,7 +36,9 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/stats.gif" width="20px"> 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" width="49%">
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats"></td>
+  </tr>
+</table>
