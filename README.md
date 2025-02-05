@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAGYnjG5FEs/8UdcVUmX7vwtj-h3DsFCMw/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
+![MasterHead]([https://www.canva.com/design/DAGYnjG5FEs/8UdcVUmX7vwtj-h3DsFCMw/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0](https://export-download.canva.com/G5FEs/DAGYnjG5FEs/20/0/0001-928197003573707078.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20250205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250205T144824Z&X-Amz-Expires=13537&X-Amz-Signature=8c31fb563ba52288c89cae6035f9420d30df81d971f554d1acba3f65a88ebc9b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Shubhendu%2520Chakrabarti.png&response-expires=Wed%2C%2005%20Feb%202025%2018%3A34%3A01%20GMT))
 <h1 align="center">Hi 👋, I'm Shubhendu Chakrabarti</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
