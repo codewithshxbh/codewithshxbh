@@ -37,7 +37,7 @@
 
 ### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/stats.gif" width="20px"> 📊 GitHub Stats:
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 50px;">
     <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" height="200"/>
   </div>
