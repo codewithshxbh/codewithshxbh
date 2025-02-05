@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/kjETcOXKdbYLS/giphy.gif?cid=6c09b9528wwaj7mvtv81e48ygug0kwg9pgtktofr90vzxpli&ep=v1_gifs_search&rid=giphy.gif&ct=g)(https://shubhenduchakrabarti.netlify.app)
+![MasterHead](https://media0.giphy.com/media/kjETcOXKdbYLS/giphy.gif?cid=6c09b9528wwaj7mvtv81e48ygug0kwg9pgtktofr90vzxpli&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1>Hi 👋, I'm Shubhendu Chakrabarti</h1>
 <p>Full Stack Developer from India</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
@@ -23,7 +23,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
@@ -41,6 +40,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/shubhenduchakrabarti" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/ch_shubh.pandit" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en" alt="codewithshxbh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshxbh&" alt="codewithshxbh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact" alt="codewithshxbh" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithshxbh" alt="codewithshxbh" /></a></p>
+</a></p>
