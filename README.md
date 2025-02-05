@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1qsmao1dI-gm82iJQJLUVNyRUDypy_AuC/view?usp=sharing" alt="MasterHead">
+  <img src="https://drive.google.com/file/d/17tFcx2y8H-heZTOg4bUFdT_fmQASXxW_/view?usp=sharing" alt="MasterHead">
 </p>
 
 ---
