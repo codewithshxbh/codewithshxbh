@@ -3,9 +3,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1cHHrUC5eW92mq3pg94d6lAg6Tdv42lXQ" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubhendu Chakrabarti</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 🚀 About Me:
