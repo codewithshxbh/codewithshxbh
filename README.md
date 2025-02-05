@@ -39,10 +39,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats">
 </p>
 
