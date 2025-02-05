@@ -1,5 +1,7 @@
+![MasterHead](https://media0.giphy.com/media/kjETcOXKdbYLS/giphy.gif?cid=6c09b9528wwaj7mvtv81e48ygug0kwg9pgtktofr90vzxpli&ep=v1_gifs_search&rid=giphy.gif&ct=g)(https://shubhenduchakrabarti.netlify.app)
 <h1>Hi 👋, I'm Shubhendu Chakrabarti</h1>
 <p>Full Stack Developer from India</p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
