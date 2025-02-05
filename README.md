@@ -6,23 +6,6 @@
 <h1 align="center">Hi 👋, I'm Shubhendu Chakrabarti</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Coding" width="400">
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithshxbh&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshxbh">
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithshxbh&theme=onedark&margin-w=10&margin-h=10" alt="Trophies">
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me:
@@ -37,19 +20,21 @@
 
 ---
 
+### 🛠️ Languages & Tools:
+<p align="center">
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Coding" width="250">
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,css,django,docker,express,figma,git,heroku,html,js,kubernetes,mongodb,mysql,nextjs,nodejs,photoshop,postgres,postman,python,react,tailwind" />
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Coding" width="250">
+</p>
+
+---
+
 ### 🔗 Connect with Me:
 <p align="center">
   <a href="https://dev.to/codewithshxbh"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
   <a href="https://twitter.com/shubhenduc2005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/shubhenduchakrabarti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/ch_shubh.pandit"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,css,django,docker,express,figma,git,heroku,html,js,kubernetes,mongodb,mysql,nextjs,nodejs,photoshop,postgres,postman,python,react,tailwind" />
 </p>
 
 ---
