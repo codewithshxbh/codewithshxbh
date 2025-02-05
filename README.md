@@ -24,9 +24,7 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Coding" width="250">
   <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,css,django,docker,express,figma,git,heroku,html,js,kubernetes,mongodb,mysql,nextjs,nodejs,photoshop,postgres,postman,python,react,tailwind" />
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Coding" width="250">
-</p>
-
+  
 ---
 
 ### 🔗 Connect with Me:
