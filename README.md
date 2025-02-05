@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1TEQ3PEvHSbysEszGqDWBWRckCh2rGufA" alt="MasterHead">
+  <img src="https://drive.google.com/uc?export=view&id=1TEQ3PEvHSbysEszGqDWBWRckCh2rGufA" alt="MasterHead">
 </p>
+
 
 ---
 
