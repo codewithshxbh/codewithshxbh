@@ -37,10 +37,10 @@
 
 ### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/stats.gif" width="20px"> 📊 GitHub Stats:
 <p align="center">
-  <table style="border: none;">
+  <table style="border: none; padding: 0; margin: 0;">
     <tr>
-      <td style="border: none; padding: 0;"><img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" height="200"/></td>
-      <td style="border: none; padding: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" height="200"/></td>
+      <td style="border: none; padding: 0; margin: 0;"><img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" height="200" /></td>
+      <td style="border: none; padding: 0; margin: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" height="200" /></td>
     </tr>
   </table>
 </p>
