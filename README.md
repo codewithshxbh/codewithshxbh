@@ -3,48 +3,21 @@
   <img src="https://drive.google.com/uc?export=view&id=1TEQ3PEvHSbysEszGqDWBWRckCh2rGufA" alt="MasterHead">
 </p>
 
+
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 🚀 About Me:
-- 🔭 I’m currently working on **[Breezly](https://github.com/codewithshxbh/Breezly)**
+### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 🚀 About Me:
+- 🔭 I’m currently working on [Breezly](https://github.com/codewithshxbh/Breezly)
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
-- 👯 I’ve worked on **[Nike Clone](https://github.com/codewithshxbh/nike-clone)**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhenduchakrabarti.netlify.app)**
+- 👯 I’ve worked on [Nike Clone](https://github.com/codewithshxbh/nike-clone)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shubhenduchakrabarti.netlify.app)
 - 💬 Ask me about **React, Express, Node.js, Python, MySQL, Tailwind CSS, MongoDB**
 - 📫 Reach me at **chakshubh7@gmail.com**
 - ⚡ Fun fact: **I am into DSA!**
-
+  
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/code.gif" width="20px"> 💻 Programming Languages:
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-</p>
-
-
----
-
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/link.gif" width="20px"> 🔗 Connect with Me:
+### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/link.gif" width="20px"> 🔗 Connect with Me:
 <p align="center">
   <a href="https://dev.to/codewithshxbh"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
   <a href="https://twitter.com/shubhenduc2005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -54,7 +27,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/stats.gif" width="20px"> 📊 GitHub Stats:
+### <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/stats.gif" width="20px"> 📊 GitHub Stats:
 <table>
   <tr>
     <td>
@@ -67,8 +40,3 @@
 </table>
 
 ---
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithshxbh&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies">
-</p>
