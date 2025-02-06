@@ -16,8 +16,9 @@
 
 ---
 
+## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 💻 Programming Languages & Technologies:
 <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/code.gif" width="20px"> 
-💻 Programming Languages & Technologies:  
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,python,c,react,figma,photoshop,git,html,css,express,nodejs,mongodb,mysql,aws,docker" alt="Programming Languages & Technologies" />
 </p>  
