@@ -22,7 +22,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,react,nextjs,express,nodejs,mongodb,mysql,postgres,tailwind,aws,docker,kubernetes,git,github,figma,ps" alt="Programming Languages & Technologies" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,react,nextjs,express,nodejs,mongodb,mysql,postgres,tailwind,aws,docker,kubernetes,git,github,figma,ps" alt="Programming Languages & Technologies" />
 </p>  
 
 <br>
