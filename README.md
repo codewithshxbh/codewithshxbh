@@ -25,8 +25,8 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,react,nextjs,express,nodejs,mongodb,mysql,postgres,tailwind,aws,docker,kubernetes,git,github,figma,ps" alt="Programming Languages & Technologies" />
 </p>  
 
----
 <br>
+---
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/link.gif" width="20px"> 🔗 Connect with Me:
 <p align="center">
