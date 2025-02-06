@@ -16,10 +16,12 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/code.gif" width="20px"> 💻 Programming Languages:
+## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/code.gif" width="20px"> 💻 Programming Languages & Technologies:  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,java" alt="Programming Languages" />
-</p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,java,react,reactnative,express,nodejs,mongodb,mysql,aws,docker" alt="Programming Languages & Technologies" />
+</p>  
+
+Let me know if you need further enhancements! 🚀
 
 ---
 
