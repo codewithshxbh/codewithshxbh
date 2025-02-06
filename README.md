@@ -21,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=javascript,python,c,react,figma,photoshop,git,html,css,express,nodejs,mongodb,mysql,aws,docker" alt="Programming Languages & Technologies" />
 </p>  
 
-Let me know if you need further enhancements! 🚀
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/link.gif" width="20px"> 🔗 Connect with Me:
