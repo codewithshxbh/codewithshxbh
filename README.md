@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **[Breezly](https://github.com/codewithshxbh/Breezly)**
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 - 👯 I’ve worked on **[Nike Clone](https://github.com/codewithshxbh/nike-clone)**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhenduchakrabarti.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhenduchakrabarti.vercel.app)**
 - 💬 Ask me about **React, Express, Node.js, Python, MySQL, Tailwind CSS, MongoDB**
 - 📫 Reach me at **chakshubh7@gmail.com**
 - ⚡ Fun fact: **I am into DSA!**
