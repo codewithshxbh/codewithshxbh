@@ -18,7 +18,7 @@
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 💻 Programming Languages & Technologies:
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=19DkGZG5SMOHAQ0Af7SEtOcYWSsTuqxxA" alt="Coding" width="500">
+  <img src="https://media3.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif?cid=6c09b952jo3jc7003sffzt88u0giihxb60yksj2db9qqubpq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="300">
 </p>
 <br>
 <p align="center">
