@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 🚀 About Me:
 - 🔭 I’m currently working on **[Breezly](https://github.com/codewithshxbh/Breezly)**
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Web3**
 - 👯 I’ve worked on **[Nike Clone](https://github.com/codewithshxbh/nike-clone)**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhenduchakrabarti.vercel.app)**
 - 💬 Ask me about **React, Express, Node.js, Python, MySQL, Tailwind CSS, MongoDB**
