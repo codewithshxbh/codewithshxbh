@@ -6,13 +6,13 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 🚀 About Me:
-- 🔭 I’m currently working on **[Breezly](https://github.com/codewithshxbh/Breezly)**
+- 🔭 I’m currently working on **[Navdrishti](https://github.com/codewithshxbh/udaan-collective-product)**
 - 🌱 I’m currently learning **Web3**
-- 👯 I’ve worked on **[Nike Clone](https://github.com/codewithshxbh/nike-clone)**
+- 👯 I’ve worked on **[UpcharSaathi](https://github.com/codewithshxbh/UpcharSaathi)**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhenduchakrabarti.vercel.app)**
-- 💬 Ask me about **React, Express, Node.js, Python, MySQL, Tailwind CSS, MongoDB**
+- 💬 Ask me about **React, Express, Node.js, Python, MySQL, Tailwind CSS, MongoDB, Springboot, React Native**
 - 📫 Reach me at **chakshubh7@gmail.com**
-- ⚡ Fun fact: **I am into DSA and Machine Learning!**
+- ⚡ Fun fact: **I am into Web and App Development!**
 
 ---
 
