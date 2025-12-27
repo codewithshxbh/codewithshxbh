@@ -52,22 +52,3 @@
 </div>
 
 ---
-
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/stats.gif" width="20px"> 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&theme=nord&cache_seconds=1800" alt="GitHub Stats" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithshxbh&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" height="200"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithshxbh&theme=onedark&no-frame=true&margin-w=10&cache_seconds=1800" alt="GitHub Trophies">
-</p>
