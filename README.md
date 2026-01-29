@@ -93,8 +93,8 @@
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshxbh&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshxbh&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshxbh&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshxbh&theme=gruvbox" />
 </p>
 
 
@@ -103,7 +103,8 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithshxbh&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithshxbh&bg_color=0d1117&color=ff9500&line=ff9500&point=ffcc00&area=true&area_color=ff9500" />
 </p>
+
 
 ---
