@@ -90,12 +90,10 @@
 </p>
 
 ---
+## Most Used Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshxbh&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshxbh&theme=github_dark" />
 </p>
 
