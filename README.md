@@ -78,11 +78,39 @@
 </div>
 
 ---
+
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=codewithshxbh&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=codewithshxbh&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=codewithshxbh&theme=dark&hide_border=false" />
+</p>
 
 ---
 
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&layout=compact&theme=dark&hide_border=false" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithshxbh&theme=github-dark" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithshxbh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
