@@ -79,13 +79,15 @@
 
 ---
 
-## GitHub Trophies
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithshxbh&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-readme-stats-ten-sepia-84.vercel.app/api?username=codewithshxbh&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-ten-sepia-84.vercel.app/api/top-langs/?username=codewithshxbh&layout=compact&hide_border=true" />
 </p>
 
 ---
+
 ## GitHub Stats
 
 <p align="center">
