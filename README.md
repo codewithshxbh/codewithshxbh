@@ -5,7 +5,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 🚀 About Me:
+## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> About Me:
 - I’m currently working on **[Navdrishti](https://github.com/codewithshxbh/udaan-collective-product)**
 - I’m currently learning **Web3**
 - I’ve worked on **[UpcharSaathi](https://github.com/codewithshxbh/UpcharSaathi)**
@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 💻 Programming Languages & Technologies:
+## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> Programming Languages & Technologies:
 
 ### Programming Languages
 <p align="center">
@@ -55,7 +55,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/link.gif" width="20px"> Connect with Me:
+## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/link.gif" width="20px">Connect with Me:
 <p align="center">
   <a href="https://dev.to/codewithshxbh"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
   <a href="https://twitter.com/shubhenduc2005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
