@@ -78,9 +78,13 @@
 </div>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=codewithshxbh&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=codewithshxbh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&theme=dark&hide_border=false&layout=compact)
+
+## GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=codewithshxbh&theme=darkhub&no-frame=false&margin-w=10)
 
