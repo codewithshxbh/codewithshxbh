@@ -83,9 +83,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=codewithshxbh&theme=dark&hide_border=false" />
 </p>
 
@@ -93,8 +90,8 @@
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshxbh&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshxbh&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshxbh&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshxbh&theme=nord_dark" />
 </p>
 
 
