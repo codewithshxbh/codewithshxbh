@@ -19,44 +19,42 @@
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 💻 Programming Languages & Technologies:
 ---
 
-## 💻 Tech Stack & Tools (Based on My Real Work)
+## Tech Stack & Tools (Based on My Real Work)
 
-### 🧠 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql" />
 </p>
 
-### 🌐 Web Frontend
+### Web Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
 </p>
 
-### 🗄 Databases
+### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ☁️ Cloud, DevOps & Deployment
+### Cloud, DevOps & Deployment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,netlify,githubactions" />
 </p>
 
-### 🛠 Developer Tools
+### Developer Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma" />
 </p>
-
----
 
 ---
 
