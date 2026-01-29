@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1MbMarPvd0gHUFe5MomqSme5ZV0YsChIN" alt="MasterHead">
 </p>
----
 
-## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> About Me:
+## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px">About Me:
 - I’m currently working on **[Navdrishti](https://github.com/codewithshxbh/udaan-collective-product)**
 - I’m currently learning **Web3**
 - I’ve worked on **[UpcharSaathi](https://github.com/codewithshxbh/UpcharSaathi)**
@@ -67,7 +66,7 @@
 ---
 
 <div align="center">
-  <h2> My Contributions</h2>
+  <h2>My Contributions</h2>
   <br>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/output/github-contribution-grid-snake.svg" />
