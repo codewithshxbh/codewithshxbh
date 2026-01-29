@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1-VtRvL4nBdDsjclunaGoZrRVYU1AF018" alt="MasterHead">
+  <img src="https://drive.google.com/uc?export=view&id=1MbMarPvd0gHUFe5MomqSme5ZV0YsChIN" alt="MasterHead">
 </p>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> About Me:
