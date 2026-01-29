@@ -93,9 +93,7 @@
 
 ## Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&layout=compact&theme=dark&hide_border=false" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -103,14 +101,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithshxbh&theme=github-dark" />
-</p>
-
----
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithshxbh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
