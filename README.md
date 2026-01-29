@@ -17,15 +17,46 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/codewithshxbh/codewithshxbh/main/assets/rocket.gif" width="20px"> 💻 Programming Languages & Technologies:
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kFo-WRKVFZomKzRk2HApUWgVxKreEcNW" alt="Coding" width="300">
-</p>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,react,tensorflow,express,nodejs,mongodb,mysql,tailwind,git,github,figma,ps" alt="Programming Languages & Technologies" />
-</p>  
+---
 
-<br>
+## 💻 Tech Stack & Tools (Based on My Real Work)
+
+### 🧠 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,sql" />
+</p>
+
+### 🌐 Web Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
+</p>
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,netlify,githubactions" />
+</p>
+
+### 🛠 Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,figma" />
+</p>
+
+---
 
 ---
 
@@ -50,3 +81,23 @@
   
   <br/><br/><br/>
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithshxbh&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithshxbh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+
