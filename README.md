@@ -91,9 +91,13 @@
 
 ---
 
-## Most Used Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithshxbh&theme=github_dark" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshxbh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithshxbh&theme=github_dark" />
+</p>
 
 
 ---
