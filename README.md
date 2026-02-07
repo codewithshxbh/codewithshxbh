@@ -74,15 +74,6 @@
   
   <br/><br/><br/>
 </div>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codewithshxbh&theme=dark&hide_border=false" />
-</p>
-
 ---
 ## Most Used Languages
 
